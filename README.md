@@ -1,3 +1,4 @@
 # IDM221 - Wireframes
-<img src="Home Wireframe 1.png"
+
+<img src="Desktop/WD Wireframes/Home Wireframe 1.jpg">
 
